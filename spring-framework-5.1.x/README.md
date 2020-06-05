@@ -1,3 +1,6 @@
+#用于学习spring-framework源码
+经过部署后的spring-framework-5.1.x,其中spring-study 为自建的测试用模块。
+----------------------------------------------------------------------------------------------------------------------------------------
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
 
 This is the home of the Spring Framework: the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects is often referred to simply as "Spring". 
